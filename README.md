@@ -1,4 +1,4 @@
-# Google Sponsored Python Courses for FREE
+# FREE Python Courses - Google Sponsored
 [Introduction to Python Programming - Udacity](https://learndigital.withgoogle.com/digitalunlocked/course/introduction-to-python-programming)
 
 [Programming for Everybody (Getting Started with Python) - Created by University of Michigan and powered by Coursera](https://learndigital.withgoogle.com/digitalunlocked/course/programming-for-everybody-python)
@@ -26,3 +26,17 @@
 [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+
+# Free Machine Learning Courses by Google
+
+[Understand the basics of machine learning](https://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-basics)
+
+[Machine Learning Crash Course](https://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course)
+
+# Free AI Courses by Google
+
+[Elements of AI](https://learndigital.withgoogle.com/digitalunlocked/course/elements-artificial-intelligence)
+
+[Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://learndigital.withgoogle.com/digitalunlocked/course/ml-ai-tasks-gcloud)
+
+
