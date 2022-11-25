@@ -1,5 +1,3 @@
-# This document contains Free Course links 
-
 # Google Sponsored Python Courses for FREE
 [Introduction to Python Programming - Udacity](https://learndigital.withgoogle.com/digitalunlocked/course/introduction-to-python-programming)
 
