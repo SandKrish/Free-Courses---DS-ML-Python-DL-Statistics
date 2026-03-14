@@ -1,4 +1,4 @@
-$ Free Python and Machine Learning Courses
+# Free Python and Machine Learning Courses
 
 This repository contains a curated list of free online courses for learning Python, Data Science, and Machine Learning from leading universities and platforms.
 
