@@ -17,7 +17,8 @@ This repository contains a curated list of free online courses for learning Pyth
 
 # Stanford university
 
-[Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) ----- 
+[Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets)
+
 [PDFs for Mining Massive Data Sets](http://www.mmds.org/)
 
 [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning)
